@@ -1,0 +1,20 @@
+{
+  "columns": ["n"],
+  "data": [
+    {"graph": {
+        "nodes": [{"id": "14", "labels": ["Person"], "properties": {"born": 1999, "name": "杰克"}}],
+        "relationships": []
+      }
+    },
+    {"graph": {
+        "nodes": [{"id": "15", "labels": ["Person"], "properties": {"born": 1998, "name": "牛葫芦·丰申殷德"}}],
+        "relationships": []
+      }
+    },
+    {"graph": {
+        "nodes": [{"id": "17", "labels": ["Country"], "properties": {"des": "大清帝国", "name": "清"}}],
+        "relationships": []
+      }
+    }
+  ]
+}
